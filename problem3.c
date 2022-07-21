@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(void)
 {
-    unsigned long long n=600851475143ull;
+    unsigned long long n=600851475143;
     unsigned long long i;
     for (i=2ull;i<n;i++)
     {
